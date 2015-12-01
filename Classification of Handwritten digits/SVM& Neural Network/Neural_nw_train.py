@@ -2,7 +2,7 @@
 """
 Created on Tue May 12 18:27:58 2015
 
-@author: Kaly
+@author: Aamir
 """
 import numpy as np
 from sklearn.cross_validation import train_test_split
